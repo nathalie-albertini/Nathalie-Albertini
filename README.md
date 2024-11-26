@@ -1,4 +1,4 @@
- ![Visual Studio Code](https://imgur.com/a/2EwqwW6)
+ <img scr="https://imgur.com/a/2EwqwW6"/>
 <h1 align="center">!💻Nathalie Albertini💻</h1>
 
 - 🌱 I’m currently learning: **Python, HTML, CSS, VM**
