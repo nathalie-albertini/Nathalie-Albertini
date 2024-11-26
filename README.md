@@ -1,4 +1,4 @@
-https://www.canva.com/design/DAGXkud-vQM/F55uzuvevydor8x0JYYfXg/view
+![bannière](https://www.canva.com/design/DAGXkud-vQM/F55uzuvevydor8x0JYYfXg/view)
 <h1 align="center">Nathalie Albertini</h1>
 - 🌱 J'apprends actuellement **Python, HTML, CSS, VM**
 
