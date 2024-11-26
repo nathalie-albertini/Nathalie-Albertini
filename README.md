@@ -1,5 +1,5 @@
 
-![Ma bannière](./banierenathalie.png)
+![Ma bannière](./bannierenathalie.png)
 <h1 align="center"></h1>
 
 - 🌱 I’m currently learning: **Python, HTML, CSS, VM**
