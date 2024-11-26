@@ -1,4 +1,4 @@
-
+"C:\Users\Nathalie8\Pictures\Screenshots\Capture d'écran 2024-11-26 144729.png"
 <h1 align="center">💻Nathalie Albertini💻</h1>
 - 🌱 I’m currently learning: **Python, HTML, CSS, VM**
 
