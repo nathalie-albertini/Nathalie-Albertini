@@ -1,4 +1,4 @@
- <img scr="https://imgur.com/a/2EwqwW6"/>
+ <img scr="./banierenathalie.png"/>
 <h1 align="center">!💻Nathalie Albertini💻</h1>
 
 - 🌱 I’m currently learning: **Python, HTML, CSS, VM**
