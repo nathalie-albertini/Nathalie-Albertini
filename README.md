@@ -1,5 +1,6 @@
 <h1 align="center">Nathalie Albertini</h1>  
-# Nathalie Albertini
+
+# Nathalie Albertini  
 - 🌱 J'apprends actuellement **Python, HTML, CSS, VM**
 
 - 📫 Comment me joindre **nathalie.albertini@laplateforme.io**
