@@ -1,5 +1,6 @@
-<h1 align="center">!💻Nathalie Albertini💻</h1>
 ![Bannière] (https://imgur.com/a/2EwqwW6) 
+<h1 align="center">!💻Nathalie Albertini💻</h1>
+
 - 🌱 I’m currently learning: **Python, HTML, CSS, VM**
 
 - 📫 How to reach me: **nathalie.albertini@laplateforme.io**
