@@ -1,4 +1,4 @@
-
+![Bannière](IMAGES/
 <h1 align="center">!💻Nathalie Albertini💻</h1>
 - 🌱 I’m currently learning: **Python, HTML, CSS, VM**
 
