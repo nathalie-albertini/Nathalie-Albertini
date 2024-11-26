@@ -1,6 +1,6 @@
 
 ![Ma bannière](./banierenathalie.png)
-<h1 align="center"> 💻Nathalie Albertini💻</h1>
+<h1 align="center"></h1>
 
 - 🌱 I’m currently learning: **Python, HTML, CSS, VM**
 
