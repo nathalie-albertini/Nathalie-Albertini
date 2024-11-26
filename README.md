@@ -1,4 +1,4 @@
-<h1 align="center">Nathalie Albertini</h1>
+<h1 align="center">Nathalie Albertini</h1>  
 # Nathalie Albertini
 - 🌱 J'apprends actuellement **Python, HTML, CSS, VM**
 
