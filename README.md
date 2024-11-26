@@ -1,4 +1,4 @@
- <img scr="https://github.com/nathalie-albertini/Nathalie-Albertini/blob/main/banierenathalie.png"/>
+<a><img scr="https://github.com/nathalie-albertini/Nathalie-Albertini/blob/main/banierenathalie.png"/></a>
 <h1 align="center">!💻Nathalie Albertini💻</h1>
 
 - 🌱 I’m currently learning: **Python, HTML, CSS, VM**
