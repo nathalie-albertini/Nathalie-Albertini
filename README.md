@@ -3,7 +3,7 @@
 
 - 📫 How to reach me **nathalie.albertini@laplateforme.io**
 
-- 📄 Know about my experiences [Auparavant dans le domaine artistique](Auparavant dans le domaine artistique)
+- 📄 Know about my experiences Auparavant dans le domaine artistique
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
