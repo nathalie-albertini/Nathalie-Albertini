@@ -1,9 +1,9 @@
 <h1 align="center">💻Nathalie Albertini💻</h1>
-- 🌱 I’m currently learning **Python, HTML, CSS, VM**
+- 🌱 I’m currently learning: **Python, HTML, CSS, VM**
 
-- 📫 How to reach me **nathalie.albertini@laplateforme.io**
+- 📫 How to reach me: **nathalie.albertini@laplateforme.io**
 
-- 📄 Know about my experiences Auparavant dans le domaine artistique
+- 📄 Know about my experiences: Auparavant dans le domaine artistique
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
