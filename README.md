@@ -1,4 +1,5 @@
 
+![Ma bannière](./banierenathalie.png)
 <h1 align="center"> 💻Nathalie Albertini💻</h1>
 
 - 🌱 I’m currently learning: **Python, HTML, CSS, VM**
@@ -16,4 +17,3 @@
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-<a><img scr="https://github.com/nathalie-albertini/Nathalie-Albertini/blob/main/banierenathalie.png"/></a>
