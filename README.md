@@ -1,6 +1,5 @@
 
-<h1 align="center">![Capture d'écran 2024-11-26 144729](https://github.com/user-attachments/assets/3a9bafaf-034c-4a7b-8b84-e3f585f511af)
-💻Nathalie Albertini💻</h1>
+<h1 align="center">!💻Nathalie Albertini💻</h1>
 - 🌱 I’m currently learning: **Python, HTML, CSS, VM**
 
 - 📫 How to reach me: **nathalie.albertini@laplateforme.io**
