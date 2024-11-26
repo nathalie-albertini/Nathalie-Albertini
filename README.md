@@ -1,4 +1,4 @@
-![Bannière](IMAGES/
+![Bannière](IMAGES/https://github.com/nathalie-albertini/IMAGES/blob/main/Capture%20d'%C3%A9cran%202024-11-26%20144729.png)
 <h1 align="center">!💻Nathalie Albertini💻</h1>
 - 🌱 I’m currently learning: **Python, HTML, CSS, VM**
 
