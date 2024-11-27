@@ -1,3 +1,4 @@
+![Banniere] (bannierenathalie.png) 
 <h1 align="center">Nathalie Albertini</h1>
 <h3 align="center">Bonjour👋, Je suis Nathalie Albertini</h3>
 
