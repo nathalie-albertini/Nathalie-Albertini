@@ -1,4 +1,4 @@
- ![Banniere](bannieregithub.mp4)  
+ ![Banniere](https://github.com/nathalie-albertini/Nathalie-Albertini/blob/main/bannieregithub.mp4)  
 <h1 align="center"></h1>
 <h3 align="center">BONJOUR👋, JE SUIS NATHALIE ALBERTINI💻</h3>
 
