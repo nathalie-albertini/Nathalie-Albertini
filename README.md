@@ -6,7 +6,7 @@
 
 - 📫 Comment me joindre **nathalie.albertini@laplateforme.io**
 
-- 📄 Découvrez mes expériences [Auparavant dans le domaine artistique](Auparavant dans le domaine artistique)
+- 📄 Découvrez mes expériences Auparavant dans le domaine artistique
 
 - ⚡Passion: **Dessins, Peintures**
 
