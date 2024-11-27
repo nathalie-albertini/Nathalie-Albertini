@@ -1,6 +1,6 @@
 ![Banniere](cyber.jpg)  
 <h1 align="center"></h1>
-<h3 align="center">BONJOUR👋, JE SUIS NATHALIE ALBERTINI</h3>
+<h3 align="center">BONJOUR👋, JE SUIS NATHALIE ALBERTINI💻</h3>
 
 - 🌱 J'apprends actuellement **Python, HTML, CSS, VM**
 
