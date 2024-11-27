@@ -9,7 +9,7 @@
 
 - ⚡Passion: **Dessins, Peintures**
 
-<h3 align="left">Contactez-moi :</h3>
+<h3 align="left">Contactez-moi : **nathalie.albertini@laplateforme.io**</h3>
 <p align="left">
 </p>
 
