@@ -7,7 +7,7 @@
 
 - 📄 Découvrez mes expériences [Auparavant dans le domaine artistique](Auparavant dans le domaine artistique)
 
-- ⚡Passion **Dessins, Peintures**
+- ⚡Passion: **Dessins, Peintures**
 
 <h3 align="left">Contactez-moi :</h3>
 <p align="left">
