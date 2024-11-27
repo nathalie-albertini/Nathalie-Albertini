@@ -1,4 +1,4 @@
-![Banniere](cyber.jpg)  
+![Banniere](gifcyber.gif)  
 <h1 align="center"></h1>
 <h3 align="center">BONJOUR👋, JE SUIS NATHALIE ALBERTINI💻</h3>
 
